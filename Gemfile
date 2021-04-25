@@ -5,3 +5,6 @@ gem 'rspec'
 gem 'pry'
 gem 'nokogiri'
 gem 'w3c_validators'
+gem "rack"
+gem "shotgun"
+gem "sinatra"
